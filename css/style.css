@@ -634,6 +634,15 @@ h6 {
   align-content: center;
 }
 
+#services .ids {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  max-width: 100px;
+  height: auto;
+}
+
 #services .center {
   display: block;
   margin-left: auto;
