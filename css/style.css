@@ -963,7 +963,7 @@ h6 {
 #testimonials .section-header {
   margin-bottom: 40px;
 }
-
+/*
 #testimonials .testimonial-item .testimonial-img {
   width: 120px;
   border-radius: 50%;
@@ -990,7 +990,7 @@ h6 {
   font-style: italic;
   margin: 0 0 15px 140px;
 }
-
+*/
 #testimonials .owl-nav,
 #testimonials .owl-dots {
   margin-top: 5px;
@@ -1342,6 +1342,11 @@ h6 {
 
 #partner .card h5 {
   font-size: 22px;
+  font-weight: 600;
+}
+
+#partner .card h6 {
+  font-size: 16px;
   font-weight: 600;
 }
 
