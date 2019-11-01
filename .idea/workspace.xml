@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfad97b1-0c04-428a-8f2e-da43025fc4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customized_software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customized_software.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/hardware_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hardware_solutions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/ids_next_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ids_next_solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sap_b_one.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sap_b_one.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1571734145295</updated>
       <workItem from="1571734146515" duration="1276000" />
-      <workItem from="1572579978762" duration="984000" />
+      <workItem from="1572579978762" duration="1281000" />
+      <workItem from="1572584391657" duration="1912000" />
     </task>
     <servers />
   </component>
@@ -69,7 +64,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
