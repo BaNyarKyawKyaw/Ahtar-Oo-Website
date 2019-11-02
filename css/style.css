@@ -749,29 +749,53 @@ Sections Header
 }
 
 /*------------------------------
-Services Section
+IDS Section
 --------------------------------*/
 
-#services {
+#ids {
     padding: 60px 0 40px 0;
     box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
     align-content: center;
 }
 
-#services .section-header hr {
+#ids .section-header hr {
     border: 1px solid #f79320;
 }
 
-#services .ids {
+#ids .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 75%;
-    max-width: 100px;
+    max-width: 120px;
     height: auto;
+
 }
 
-#services .center {
+#ids .container {
+    margin-top: 40px;
+    display: table;
+    width: 75%;
+}
+
+#ids .description {
+    font-size: 14px;
+    margin-left: 40px;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+
+/*------------------------------
+Customized Section
+--------------------------------*/
+
+#customized {
+    padding: 60px 0 40px 0;
+    box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+    align-content: center;
+}
+
+#customized .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -781,18 +805,13 @@ Services Section
 
 }
 
-#services .container {
+#customized .container {
     margin-top: 40px;
     display: table;
     width: 75%;
 }
 
-#services .eq-col {
-    display: table-cell;
-
-}
-
-#services .box {
+#customized .box {
     padding: 30px;
     position: relative;
     overflow: hidden;
@@ -804,7 +823,7 @@ Services Section
     display: table;
 }
 
-#services .process-box {
+#customized .process-box {
     padding: 30px;
     position: relative;
     border-radius: 10px;
@@ -813,42 +832,39 @@ Services Section
     box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
 }
 
-/*
-#services .box:hover {
-  -webkit-transform: translateY(-5px);
-  transform: translateY(-5px);
+#customized .box:hover {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
 }
-*/
 
-#services .icon {
+#customized .icon {
     position: absolute;
     left: -10px;
     top: calc(50% - 32px);
 }
 
-#services .icon i {
+#customized .icon i {
     font-size: 64px;
     line-height: 1;
     transition: 0.5s;
 }
 
-#services .title {
+#customized .title {
     margin-left: 40px;
     font-weight: 700;
     margin-bottom: 15px;
     font-size: 18px;
 }
 
-#services .title a {
+#customized .title a {
     color: #111;
 }
 
-/*
-#services .box:hover .title {
-  color: #007bff;
+#customized .box:hover .title {
+    color: #007bff;
 }
-*/
-#services .description {
+
+#customized .description {
     font-size: 14px;
     margin-left: 40px;
     line-height: 24px;
