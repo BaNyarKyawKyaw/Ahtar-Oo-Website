@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfad97b1-0c04-428a-8f2e-da43025fc4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/banya.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/ams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/ctms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/ferps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/hrms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/mms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/pms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/customized/sims.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonial-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact_us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/customized_software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customized_software.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/hardware_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hardware_solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ids_next_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ids_next_solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sap_b_one.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sap_b_one.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +43,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Szwv1yVwfe3ijCbwyoOb7ztOKR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
@@ -91,7 +88,9 @@
       <workItem from="1572592734458" duration="6031000" />
       <workItem from="1572599478122" duration="4603000" />
       <workItem from="1572663017776" duration="22534000" />
-      <workItem from="1572835837418" duration="2199000" />
+      <workItem from="1572835837418" duration="5133000" />
+      <workItem from="1572841197981" duration="1332000" />
+      <workItem from="1572842964117" duration="9088000" />
     </task>
     <servers />
   </component>
@@ -110,5 +109,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
