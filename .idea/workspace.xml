@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfad97b1-0c04-428a-8f2e-da43025fc4d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/banya.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/right.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact_us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/customized_software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customized_software.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/hardware_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hardware_solutions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/ids_next_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ids_next_solutions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sap_b_one.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sap_b_one.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +53,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\BBM\Internship\Ahtar Oo\Task 5 Ahtar Oo Webiste\Ahtar-Oo-Webiste\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,7 +90,8 @@
       <workItem from="1572584391657" duration="3168000" />
       <workItem from="1572592734458" duration="6031000" />
       <workItem from="1572599478122" duration="4603000" />
-      <workItem from="1572663017776" duration="2098000" />
+      <workItem from="1572663017776" duration="22534000" />
+      <workItem from="1572835837418" duration="2199000" />
     </task>
     <servers />
   </component>
