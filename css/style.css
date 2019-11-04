@@ -882,11 +882,13 @@ Customized Section
     width: 75%;
     max-width: 80px;
     height: auto;
-
 }
 
-#customized .section-header p{
+#customized .section-header p {
     padding-bottom: 5px;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
 }
 
 #customized .container {
@@ -896,7 +898,7 @@ Customized Section
 }
 
 #customized .process {
-    width: 75%;
+    width: 80%;
     alignment: center;
 }
 
@@ -912,10 +914,11 @@ Customized Section
 }
 
 #customized .process-box {
-    padding: 20px;
+    padding: 20px 10px 20px 10px;
+    position: relative;
+    overflow: hidden;
     margin: 20px;
     border-radius: 10px;
-    text-align: center;
     background: #ffffff;
     box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
 }
@@ -962,6 +965,59 @@ Customized Section
     margin-left: 40px;
     line-height: 24px;
     margin-bottom: 0;
+}
+
+/* -----------------------------
+SAP Section
+--------------------------------*/
+
+#sap .container {
+    margin-top: 100px;
+    display: table;
+    width: 75%;
+}
+
+#sap .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 100px;
+    height: auto;
+}
+
+#sap h5 {
+    font-size: 24px;
+    color: #283d50;
+    text-align: start;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+#sap h6 {
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 600;
+    margin: 0;
+}
+
+#sap .description {
+    font-size: 18px;
+    margin-left: auto;
+    line-height: 24px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#sap .box {
+    padding: 20px 10px 20px 10px;
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+    border-radius: 10px;
+    background: #1c64be;
+    box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
 }
 
 /* -----------------------------

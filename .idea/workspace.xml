@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfad97b1-0c04-428a-8f2e-da43025fc4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/customized/ams.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/ctms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/ferps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/hrms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/mms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/pms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/customized/sims.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/partners/SAP.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/partners/SAP.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/customized_software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customized_software.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sap_b_one.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sap_b_one.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +84,8 @@
       <workItem from="1572663017776" duration="22534000" />
       <workItem from="1572835837418" duration="5133000" />
       <workItem from="1572841197981" duration="1332000" />
-      <workItem from="1572842964117" duration="9088000" />
+      <workItem from="1572842964117" duration="11815000" />
+      <workItem from="1572855570009" duration="4373000" />
     </task>
     <servers />
   </component>
