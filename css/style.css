@@ -140,25 +140,27 @@ h6 {
 }
 
 #header .logo h1 {
-    font-size: 36px;
-    margin: 0;
+    font-size: 24px;
+    top: calc(50% - 12px);
+    margin-left: 42px;
+    position: absolute;
     padding: 0;
     line-height: 1;
     font-weight: 400;
-    letter-spacing: 3px;
-    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    color: #7b1315;
 }
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-    color: #00366f;
+    color: #7b1315;
     text-decoration: none;
 }
 
 #header .logo img {
     padding: 0;
-    margin: 7px 0;
-    max-height: 26px;
+    margin: 0;
+    max-height: 40px;
 }
 
 .main-pages {
@@ -896,15 +898,6 @@ IDS Why Us
     padding: 0 0 20px 0;
 }
 
-#ids-why-us .reason-why-us .mark {
-    float: left;
-    background: #00428a;
-    width: 25px;
-    height: 75px;
-    text-align: center;
-    margin-right: 15px;
-}
-
 #ids-why-us .reason-why-us h5 {
     font-size: 20px;
     color: #FFFFFF;
@@ -1065,6 +1058,42 @@ SAP Section
     border-radius: 10px;
     background: #1c64be;
     box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+}
+
+/*------------------------------
+Hardware Section
+-------------------------------- */
+
+#hardware .container {
+    padding-top: 100px;
+    display: table;
+    width: 75%;
+}
+
+#hardware .title-1 {
+    font-size: 28px;
+    color: #283d50;
+    text-align: start;
+    font-weight: 500;
+}
+
+#hardware .title-2 {
+    font-size: 20px;
+    color: #283d50;
+    text-align: start;
+    font-weight: 500;
+}
+
+#hardware .facts {
+    font-size: 18px;
+    color: #283d50;
+    text-align: start;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+#hardware .smart-lock-products {
+    margin-top: -30px;
 }
 
 /* -----------------------------
@@ -1525,15 +1554,6 @@ Contact Section
 }
 
 /*--------------------------------------------------------------
-# Logo Font
---------------------------------------------------------------*/
-
-.logo-font {
-    font-family: 'Times New Roman', Times, serif;
-    color: #7b1315;
-}
-
-/*--------------------------------------------------------------
 # Partner
 --------------------------------------------------------------*/
 
@@ -1633,7 +1653,7 @@ Contact Section
 --------------------------------------------------------------*/
 
 #clients {
-    padding: 60px 0;
+    padding: 20px 0;
     background: #ffffff;
 }
 
