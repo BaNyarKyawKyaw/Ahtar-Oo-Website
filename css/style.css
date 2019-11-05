@@ -127,7 +127,7 @@ h6 {
 #header {
     height: 80px;
     transition: all 0.5s;
-    z-index: 997;
+    z-index: 1;
     padding: 20px 0;
     background: #fff;
     box-shadow: 0 0 30px rgba(127, 137, 161, 0.3);
@@ -740,7 +740,7 @@ IDS Section
 --------------------------------*/
 
 #ids {
-    padding: 60px 0 40px 0;
+    padding: 40px 0 40px 0;
     box-shadow: inset 0 0 12px 0 rgba(0, 0, 0, 0.1);
     align-content: center;
 }
