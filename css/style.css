@@ -752,7 +752,6 @@ IDS Section
     width: 75%;
     max-width: 120px;
     height: auto;
-
 }
 
 #ids .container {
@@ -1092,8 +1091,30 @@ Hardware Section
     margin-left: 10px;
 }
 
-#hardware .smart-lock-products {
+#hardware .products-margin {
     margin-top: -30px;
+}
+
+#hardware .lock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 120px;
+    height: auto;
+}
+
+#hardware .hardware {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 120px;
+    height: auto;
+}
+
+#hardware .right {
+    padding-left: 150px;
 }
 
 /* -----------------------------
