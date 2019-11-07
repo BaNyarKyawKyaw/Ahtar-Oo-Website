@@ -1718,22 +1718,52 @@ Contact Section
     background: #ffffff;
     border-color: #00458f;
     border-radius: 10px;
-    margin: 0 15px;
-    padding: 15px 0;
     text-align: center;
     color: #00428A;
     transition: 0.3s ease-in-out;
     height: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 #clients .card h5 {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 600;
+    margin: 0;
+    padding: 0;
 }
 
 #clients .card h6 {
     font-size: 16px;
     font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-control-next-icon:after {
+    content: '>';
+    font-size: 40px;
+    color: #00428a;
+    margin-right: -200px;
+}
+
+.carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 40px;
+    font-weight: 900;
+    color: #00428a;
+    margin-left: -200px;
+    margin-bottom: 100px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    bottom: 30%;
+}
+
+.carousel-indicators li {
+    margin-bottom: -50px;
+    background-color: #00428a;
 }
 
 /*--------------------------------------------------------------
