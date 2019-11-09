@@ -1722,14 +1722,11 @@ Contact Section
     color: #00428A;
     transition: 0.3s ease-in-out;
     height: 100%;
-    padding: 0;
+    padding: 10px;
     margin: 0;
 }
 
-#clients .card h5 {
-    font-size: 18px;
-    font-weight: 600;
-    margin: 0;
+#clients .card .card-body {
     padding: 0;
 }
 
@@ -1740,25 +1737,19 @@ Contact Section
     padding: 0;
 }
 
-.carousel-control-next-icon:after {
-    content: '>';
-    font-size: 40px;
-    color: #00428a;
-    margin-right: -200px;
+.previous {
+    margin-left: -220px;
 }
 
-.carousel-control-prev-icon:after {
-    content: '<';
-    font-size: 40px;
-    font-weight: 900;
-    color: #00428a;
-    margin-left: -200px;
-    margin-bottom: 100px;
+.next {
+    margin-right: -220px;
+    top: 40%;
 }
 
-.carousel-control-prev,
-.carousel-control-next {
-    bottom: 30%;
+.previous img,
+.next img {
+    width: 30px;
+    height: auto;
 }
 
 .carousel-indicators li {
