@@ -950,6 +950,9 @@ Customized Section
     alignment: center;
 }
 
+#customized .row {
+}
+
 #customized .box {
     padding: 30px 20px 30px 40px;
     position: relative;
@@ -959,21 +962,27 @@ Customized Section
     background: #fff;
     box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
     transition: all 0.3s ease-in-out;
+
+}
+
+#customized .box h4 {
+    margin-bottom: 0;
+}
+
+#customized .title {
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 18px;
 }
 
 #customized .process-box {
-    padding: 20px 10px 20px 10px;
+    padding: 20px 20px 20px 20px;
     position: relative;
     overflow: hidden;
-    margin: 20px;
+    margin: 10px;
     border-radius: 10px;
     background: #ffffff;
     box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
-}
-
-#customized .box:hover {
-    -webkit-transform: translateY(-5px);
-    transform: translateY(-5px);
 }
 
 #customized .icon {
@@ -984,41 +993,11 @@ Customized Section
     height: 50px;
 }
 
-#customized .icon i {
-    font-size: 64px;
-    line-height: 1;
-    transition: 0.5s;
-}
-
-#customized .title {
-    margin-left: 40px;
-    font-weight: 700;
-    margin-bottom: 15px;
-    font-size: 18px;
-}
-
 #customized .process-text {
     font-weight: 700;
     font-size: 18px;
     margin: 0;
     padding: 0;
-}
-
-#customized .box:hover .title {
-    color: #007bff;
-}
-
-#customized .description {
-    font-size: 14px;
-    margin-left: 40px;
-    line-height: 24px;
-    margin-bottom: 0;
-}
-
-#customized .reason {
-    background: #00428a;
-    background-size: cover;
-    padding: 0 0 20px 0;
 }
 
 #customized-why-us p {
