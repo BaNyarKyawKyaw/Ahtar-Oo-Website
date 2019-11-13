@@ -2,33 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfad97b1-0c04-428a-8f2e-da43025fc4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/clients/ancient-bagan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/aureum-palace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/clover-group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/dummy.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/clients/emerald-bay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/excel-hotel-group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/holly-hotel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/hoya-international-hotel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/htoo-hospitality.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/jade-marina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/kandawgyi-palace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/malikha-lodge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/myanmar-treasure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/pale-mon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/pathein-hotel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/popa-mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/queens-park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/rose-garden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clients/shwe-yee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clients/excel-treasure-group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clients/golden-beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clients/millennium-hotel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clients/rainbow-b&amp;b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clients/residence-15-apartment-service.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/clients/star-max.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/clients/win-unity.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/clients/zabu-thiri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/previous.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ids_next_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ids_next_solutions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/hardware_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hardware_solutions.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +51,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/clients" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\BBM\Internship\Ahtar Oo\Task 5 Ahtar Oo Webiste\Ahtar-Oo-Webiste\img\clients" />
       <recent name="P:\BBM\Internship\Ahtar Oo\Task 5 Ahtar Oo Webiste\Ahtar-Oo-Webiste\img" />
     </key>
   </component>
@@ -111,7 +97,10 @@
       <workItem from="1573008749217" duration="14869000" />
       <workItem from="1573097315912" duration="956000" />
       <workItem from="1573099665062" duration="7228000" />
-      <workItem from="1573266654655" duration="10493000" />
+      <workItem from="1573266654655" duration="16090000" />
+      <workItem from="1573289503458" duration="1426000" />
+      <workItem from="1573295790500" duration="61000" />
+      <workItem from="1573612517042" duration="270000" />
     </task>
     <servers />
   </component>

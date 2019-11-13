@@ -121,7 +121,7 @@
 
     //Client slide test
     $(".carousel-clients").carousel({
-        interval: 3000,
+        interval: 1000,
         keyboard: false,
         pause: hover
     });
