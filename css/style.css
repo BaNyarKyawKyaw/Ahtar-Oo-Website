@@ -746,6 +746,15 @@ IDS Product Section
     box-shadow: inset 0 0 12px 0 rgba(0, 0, 0, 0.1);
 }
 
+#ids-product .row img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 250px;
+    height: auto;
+}
+
 #ids-product .container {
     display: table;
     width: 75%;
