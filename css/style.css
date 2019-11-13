@@ -1675,8 +1675,7 @@ Contact Section
 
 #clients .card {
     background: #ffffff;
-    border-color: #00458f;
-    border-radius: 10px;
+    border: 0;
     text-align: center;
     color: #00428A;
     transition: 0.3s ease-in-out;
@@ -1694,26 +1693,6 @@ Contact Section
     font-weight: 600;
     margin: 0;
     padding: 0;
-}
-
-.previous {
-    margin-left: -220px;
-}
-
-.next {
-    margin-right: -220px;
-    top: 40%;
-}
-
-.previous img,
-.next img {
-    width: 30px;
-    height: auto;
-}
-
-.carousel-indicators li {
-    margin-bottom: -50px;
-    background-color: #00428a;
 }
 
 /*--------------------------------------------------------------
