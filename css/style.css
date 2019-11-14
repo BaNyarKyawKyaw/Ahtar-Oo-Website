@@ -1471,6 +1471,18 @@ Contact Section
     background: #ffffff;
 }
 
+#partner .logo-long {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 140px;
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background: #ffffff;
+}
+
 #partner .section-header p {
     color: #283d50;
 }
@@ -1523,6 +1535,30 @@ Contact Section
     max-width: 100px;
     height: auto;
     background: #ffffff;
+}
+
+#clients .logo-mid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    background: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#clients .logo-long {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    background: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 #clients .section-header h3,
