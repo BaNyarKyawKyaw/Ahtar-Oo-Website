@@ -436,10 +436,7 @@ h6 {
     margin-bottom: 10px;
 }
 
-#footer .footer-top row {
-
-}
-
+/*
 #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
@@ -459,10 +456,30 @@ h6 {
     background: #0067d5;
     color: #fff;
 }
+*/
+
+#footer .row {
+    margin: 0;
+    padding: 0;
+}
 
 #footer .copyright {
     text-align: center;
     padding-top: 10px;
+}
+
+#footer .lower-social-links {
+    margin-top: 15px;
+}
+
+#footer .lower-social-links img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 30px;
+    height: 30px;
+
 }
 
 #footer .credits {
@@ -750,9 +767,8 @@ IDS Product Section
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
-    max-width: 250px;
-    height: auto;
+    max-height: 150px;
+    width: auto;
 }
 
 #ids-product .container {
@@ -1040,24 +1056,6 @@ Hardware Section
 
 #hardware .products-margin {
     margin-top: -30px;
-}
-
-#hardware .lock {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-    max-width: 120px;
-    height: auto;
-}
-
-#hardware .hardware {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-    max-width: 120px;
-    height: auto;
 }
 
 #hardware .right {
