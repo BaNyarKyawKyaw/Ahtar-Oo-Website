@@ -508,7 +508,7 @@ h6 {
 #intro {
     width: 100%;
     position: relative;
-    background: url("../img/intro-bg.png") center bottom no-repeat;
+    background: url("../img/bagan-4.jpg") center bottom no-repeat;
     background-size: cover;
     padding: 200px 0 120px 0;
 }
@@ -516,6 +516,7 @@ h6 {
 #intro .intro-img {
     width: 50%;
     float: right;
+
 }
 
 #intro .intro-info {
@@ -525,7 +526,7 @@ h6 {
 
 #intro .intro-info h2 {
     color: #fff;
-    margin-bottom: 40px;
+    margin: -80px 0 100px 0;
     font-size: 48px;
     font-weight: 700;
 }
@@ -1027,9 +1028,12 @@ Hardware Section
 -------------------------------- */
 
 #hardware .container {
-    padding-top: 100px;
     display: table;
     width: 75%;
+}
+
+#hardware .container hr {
+    border: 1px solid #7b1315;
 }
 
 #hardware .title-1 {
@@ -1044,6 +1048,25 @@ Hardware Section
     color: #283d50;
     text-align: start;
     font-weight: 500;
+}
+
+#hardware .center-height {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 90px;
+    margin-bottom: 10px;
+}
+
+#hardware .center-width {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 110px;
+    height: auto;
+    margin-bottom: 20px;
 }
 
 #hardware .facts {
@@ -1489,7 +1512,7 @@ Contact Section
 
 #partner .card {
     background: #ffffff;
-    border-color: #00458f;
+    border-color: #92E2FD;
     border-radius: 10px;
     margin: 0 15px 0 15px;
     padding: 10px 0 0 0;
