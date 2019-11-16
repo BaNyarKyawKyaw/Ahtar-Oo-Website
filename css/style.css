@@ -508,35 +508,32 @@ h6 {
 #intro {
     width: 100%;
     position: relative;
-    background: url("../img/bagan-4.jpg") center bottom no-repeat;
     background-size: cover;
-    padding: 200px 0 120px 0;
+    padding: 70px 0 120px 0;
+    height: 600px;
 }
 
-#intro .intro-img {
-    width: 50%;
-    float: right;
-
+#intro .carousel .carousel-img {
+    display: none;
 }
 
-#intro .intro-info {
-    width: 50%;
-    float: left;
+#intro .intro-text {
+    position: absolute;
+    margin: 50px 0 0 120px;
 }
 
-#intro .intro-info h2 {
+#intro .intro-text h2 {
     color: #fff;
-    margin: -80px 0 100px 0;
     font-size: 48px;
     font-weight: 700;
 }
 
-#intro .intro-info h2 span {
+#intro .intro-text h2 span {
     color: #74b5fc;
     text-decoration: underline;
 }
 
-#intro .intro-info .btn-get-started {
+#intro .intro-text .btn-get-started {
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 600;
@@ -549,13 +546,13 @@ h6 {
     color: #fff;
 }
 
-#intro .intro-info .btn-get-started {
+#intro .intro-text .btn-get-started {
     background: #007bff;
     border: 2px solid #007bff;
     color: #fff;
 }
 
-#intro .intro-info .btn-get-started:hover {
+#intro .intro-text .btn-get-started:hover {
     background: none;
     border-color: #fff;
     color: #fff;
@@ -960,6 +957,7 @@ Customized Section
 #customized .process-text {
     font-weight: 700;
     font-size: 18px;
+    color: #FFFFFF;
     margin: 0;
     padding: 0;
 }
@@ -1581,6 +1579,38 @@ Contact Section
     height: auto;
     background: #ffffff;
     padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#clients .hardware-logo-small {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 80px;
+    height: auto;
+    background: #ffffff;
+}
+
+#clients .hardware-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+    background: #ffffff;
+}
+
+#clients .hardware-logo-mid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 110px;
+    height: auto;
+    background: #ffffff;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 

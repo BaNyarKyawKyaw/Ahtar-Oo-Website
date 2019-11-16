@@ -92,5 +92,13 @@
         });
     });
 
+    //
+    $('.carousel').carousel({
+        interval: 1000,
+        keyboard: false,
+        pause: false,
+        ride: true
+    })
+
 })(jQuery);
 
