@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfad97b1-0c04-428a-8f2e-da43025fc4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/clients/vsk.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Shwedagon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bagan-3.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bagan-4.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header-bg.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/intro-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/intro-img.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/original-bagan-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/original-bagan-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customized_software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/customized_software.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/hardware_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hardware_solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ids_next_solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ids_next_solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/sap_b_one.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sap_b_one.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +100,8 @@
       <workItem from="1573899358682" duration="1207000" />
       <workItem from="1574017421192" duration="616000" />
       <workItem from="1574044860303" duration="237000" />
-      <workItem from="1574046508320" duration="424000" />
+      <workItem from="1574046508320" duration="672000" />
+      <workItem from="1574157601646" duration="43000" />
     </task>
     <servers />
   </component>
