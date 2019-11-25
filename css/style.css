@@ -581,7 +581,7 @@ Sections Header
 .section-header h5 {
     font-size: 20px;
     color: #283d50;
-    text-align: start;
+    text-align: center;
     font-weight: 500;
 }
 
@@ -621,15 +621,6 @@ Sections Header
 
 #about .about-container p:last-child {
     margin-bottom: 0;
-}
-
-#about .about-extra {
-    padding-top: 60px;
-}
-
-#about .about-extra h4 {
-    font-weight: 600;
-    font-size: 24px;
 }
 
 #about .about-container .icon-box .icon {
@@ -688,7 +679,16 @@ Sections Header
     font-size: 14px;
 }
 
-#about .structure {
+/*---------------------------------
+About Us
+ -------------------------------*/
+
+#about-us {
+    background: #fff;
+    padding: 100px 0 50px 0;
+}
+
+#about-us .structure {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -1357,7 +1357,7 @@ Contact Section
 #contact {
     position: relative;
     box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.1);
-    padding: 100px 0 60px 0;
+    padding: 100px 0 30px 0;
 }
 
 #contact .section-header {
@@ -1390,6 +1390,8 @@ Contact Section
 }
 
 #contact .info {
+    margin-top: 30px;
+    margin-bottom: -40px;
     color: #283d50;
 }
 
