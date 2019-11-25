@@ -508,9 +508,9 @@ h6 {
 #intro {
     width: 100%;
     position: relative;
+    background: url("../img/bagan-2-rec.jpg") center bottom no-repeat;
     background-size: cover;
-    padding: 70px 0 120px 0;
-    height: 600px;
+    padding: 510px 0 120px 0;
 }
 
 #intro .carousel .carousel-img {
@@ -519,7 +519,7 @@ h6 {
 
 #intro .intro-text {
     position: absolute;
-    margin: 50px 0 0 120px;
+    margin: -400px 0 0 120px;
 }
 
 #intro .intro-text h2 {
@@ -612,7 +612,7 @@ Sections Header
 
 #about {
     background: #fff;
-    padding: 100px 0 60px 0;
+    padding: 50px 0 60px 0;
 }
 
 #about .about-container p {
